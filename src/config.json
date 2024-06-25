@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "vch1",
+  "taskName": "vch_cb_1",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
